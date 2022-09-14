@@ -8,6 +8,8 @@ This application is a tech blog. Users can add posts and comment on posts. New u
 
 Express
 mySQL
+Sequalize
+Jest
 Handelbars
 Javascript
 CSS
