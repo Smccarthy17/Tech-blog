@@ -61,9 +61,11 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 Study Group:
 Susan, Chris P., Jackson, Sarah, Ricky, Aaron
 
-Heroky link:
+Heroku link: 
+https://guarded-bastion-94988.herokuapp.com
 
 Github link:
+https://github.com/Smccarthy17/Tech-blog.git
 
 ## Screenshots
 
