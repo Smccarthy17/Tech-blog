@@ -61,7 +61,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 Study Group:
 Susan, Chris P., Jackson, Sarah, Ricky, Aaron
 
-Deployed link:
+Heroky link:
 
 Github link:
 
