@@ -68,5 +68,8 @@ Github link:
 https://github.com/Smccarthy17/Tech-blog.git
 
 ## Screenshots
+<img width="910" alt="image" src="https://user-images.githubusercontent.com/90977936/190296349-eede0f21-5281-48d6-9860-6bf9d90c5893.png">
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/90977936/190296456-8838a48c-3871-49c7-9cab-6203f767a9b7.png">
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/90977936/190296561-5bfacd25-b68c-40a1-a079-7271b24be3d9.png">
 
 
