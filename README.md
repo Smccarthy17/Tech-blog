@@ -67,8 +67,4 @@ Github link:
 
 ## Screenshots
 
-![] <img src="./public/stylesheet/images/techbloga.png"
 
-![] <img src="./public/stylesheet/images/techblogb.png"
-
-![] <img src="./public/stylesheet/images/techblogc.png"
